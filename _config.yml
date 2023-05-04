@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Technical writing. Business Insights."
+  location         : "Remote Writer and Editor"
   email            :
   links:
     - label: "Email"
