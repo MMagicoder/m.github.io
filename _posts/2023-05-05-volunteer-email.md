@@ -2,6 +2,10 @@
 layout: post
 title: "How and Why Organizations should Create Email Accounts for Volunteers"
 date: 2023-05-05
+
+header:
+  image: https://www.pexels.com/photo/crop-woman-writing-in-notebook-at-home-4050300/
+  image_description: "Technical Writer"
 --- 
 
 ## INTRODUCTION 
